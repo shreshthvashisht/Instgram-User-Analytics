@@ -25,3 +25,8 @@
     *Your Task: Provide how many times does average user posts on Instagram. Also, provide the total number of photos on Instagram/total number of users*
 2. Bots & Fake Accounts: The investors want to know if the platform is crowded with fake and dummy accounts
     *Your Task: Provide data on users (bots) who have liked every single photo on the site (since any normal user would not be able to do this)*
+    
+    
+    
+### For the data set SQL file [click here](https://docs.google.com/document/d/1-WhNRX1iYJIz7e5l28DMPWgsPklpE_w6/edit?usp=sharing&ouid=109356424617551323871&rtpof=true&sd=true)
+
